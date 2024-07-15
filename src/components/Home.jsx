@@ -1,9 +1,3 @@
-// 
-
-
-
-
-
 
 import React, { useEffect, useRef } from "react";
 import pdf from "../pdf/resume.pdf";
